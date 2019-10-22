@@ -1,0 +1,33 @@
+p{
+	color:red;
+	background: green;
+	text-align: right;
+}
+h2{
+	color:red;
+	background: green;
+	text-align: center;
+	display: block;
+	margin: 0 ,auto;
+	padding: 20px;
+	overflow:hidden;
+}
+.Noakhali h2{
+	
+	color:black;
+	background: orange;
+	text-align: left;
+}
+.bangladesh h2{
+	color:black;
+	background: red;
+	text-align: center;
+	display: inline-block;
+	margin:auto;
+}
+.ban h2 span{
+	color:blue;		
+}
+.ban h2 span p{
+	color:gray;		
+}
